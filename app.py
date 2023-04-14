@@ -11,7 +11,7 @@ with col2:
     st.markdown("###### Chat with any language")
 
 # embed in a streamlit app
-st.components.v1.iframe("https://ora.sh/embed/614cf6db-1c92-4960-8e73-45dc4ef98460", width=1500, height=550, scrolling=True)
+st.components.v1.iframe("https://ora.sh/embed/614cf6db-1c92-4960-8e73-45dc4ef98460", width=1250, height=500, scrolling=True)
 
 st.caption("Powered by")
 st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png", width=50)
