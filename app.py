@@ -8,7 +8,7 @@ with col1:
     st.image("https://cdn-icons-png.flaticon.com/512/5999/5999248.png", width=100)
 with col2:
     st.markdown("# Meet Tina: Your Life, Business, and Career Coach")
-    st.markdown("###### Chat with any language")
+    st.markdown("###### Chat in any language")
 
 # embed in a streamlit app
 st.components.v1.iframe("https://ora.sh/embed/614cf6db-1c92-4960-8e73-45dc4ef98460", width=1250, height=500, scrolling=True)
