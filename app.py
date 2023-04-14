@@ -5,9 +5,11 @@ st. set_page_config(layout="wide")
 
 col1, mid, col2= st.columns([1,1,20])
 with col1:
-    st.image("https://cdn-icons-png.flaticon.com/512/1791/1791365.png", width=70)
+    st.image("https://cdn-icons-png.flaticon.com/512/5999/5999248.png", width=70)
 with col2:
-    st.markdown("# Meet MARV: The Sarcastic Bot")
+    st.markdown("###### Meet Tina: Your Life, Business, and Career Coach")
+    st.markdown("###### Chat with any language")
+    st.markdown("###### App by </Shahnab>")
 
 # st.sidebar.image("https://cdn-icons-png.flaticon.com/512/1791/1791365.png", width=150)
 # st.sidebar.title("Meet MARV: The Sarcastic Bot")
@@ -30,7 +32,7 @@ with col2:
 # st.caption("Marv is a chatbot that reluctantly answers questions with sarcastic responses")
 
 # embed streamlit docs in a streamlit app
-st.components.v1.iframe("https://ora.sh/embed/6f03b2ab-5de2-4189-bb23-c6bad5d90f82", width=1500, height=550, scrolling=True)
+st.components.v1.iframe("https://ora.sh/embed/614cf6db-1c92-4960-8e73-45dc4ef98460", width=1500, height=550, scrolling=True)
 
 st.caption("Powered by")
 st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png", width=50)
