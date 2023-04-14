@@ -7,7 +7,7 @@ col1, mid, col2= st.columns([1,1,20])
 with col1:
     st.image("https://cdn-icons-png.flaticon.com/512/5999/5999248.png", width=70)
 with col2:
-    st.markdown("###### Meet Tina: Your Life, Business, and Career Coach")
+    st.markdown("# Meet Tina: Your Life, Business, and Career Coach")
     st.markdown("###### Chat with any language")
     st.markdown("###### App by </Shahnab>")
 
